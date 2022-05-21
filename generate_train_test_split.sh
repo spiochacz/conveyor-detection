@@ -1,1 +1,1 @@
-cd data/training && python3 generate_test_train_list.py
+cd data/training && python3 generate_train_test_list.py
