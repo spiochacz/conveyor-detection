@@ -1,0 +1,1 @@
+python3 data/prepare_data_JTLEE.py --root './data/dht_images/' --label './data/dht_data' --save-dir './data/training/generated/' --list './data/training/generated.lst' --prefix 'generated' --fixsize 512 --numangle 100 --numrho 100

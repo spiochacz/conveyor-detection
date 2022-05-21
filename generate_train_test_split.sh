@@ -1,0 +1,1 @@
+cd data/training && python3 generate_test_train_list.py
