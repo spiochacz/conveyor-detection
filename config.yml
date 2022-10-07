@@ -1,16 +1,16 @@
 DATA:
+    #DIR: "data/training/"
+    #VAL_DIR: "data/training/"
+    #TEST_DIR: "data/training/"
+    #LABEL_FILE: "data/training/train.txt"
+    #VAL_LABEL_FILE: "data/training/test.txt"
+    #TEST_LABEL_FILE: "data/training/test.txt"
     DIR: "data/training/"
     VAL_DIR: "data/training/"
-    TEST_DIR: "data/training/"
-    LABEL_FILE: "data/training/train.txt"
-    VAL_LABEL_FILE: "data/training/test.txt"
-    TEST_LABEL_FILE: "data/training/test.txt"
-    # DIR: "data/training/"
-    # VAL_DIR: "data/training/"
-    # TEST_DIR: "data/training"
-    # LABEL_FILE: "data/training/train_1716_100_100.txt"
-    # VAL_LABEL_FILE: "data/training/test_1716_100_100.txt"
-    # TEST_LABEL_FILE: "data/training/test_1716_100_100.txt"
+    TEST_DIR: "data/training"
+    LABEL_FILE: "data/training/train_1716_100_100.txt"
+    VAL_LABEL_FILE: "data/training/test_1716_100_100.txt"
+    TEST_LABEL_FILE: "data/training/test_1716_100_100.txt"
     BATCH_SIZE: 8
     WORKERS: 4
 
