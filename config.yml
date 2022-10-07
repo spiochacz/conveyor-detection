@@ -4,7 +4,7 @@ DATA:
     TEST_DIR: "data/training/"
     LABEL_FILE: "data/training/train.txt"
     VAL_LABEL_FILE: "data/training/test.txt"
-    TEST_LABEL_FILE: "data/SEL_test.txt"
+    TEST_LABEL_FILE: "data/sel_test.txt"
     #DIR: "data/training/"
     #VAL_DIR: "data/training/"
     #TEST_DIR: "data/training/"
